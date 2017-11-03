@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/jsp/back/list.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/front/talk.jsp=UTF-8
+encoding//WebRoot/resources/js/front/talk.js=UTF-8
+encoding//src/com/qdlg/servlet/AutoReplyServlet.java=UTF-8
+encoding//src/com/qdlg/servlet/DeleteBatchServlet.java=UTF-8
+encoding//src/com/qdlg/servlet/DeleteOneServlet.java=UTF-8
+encoding//src/com/qdlg/servlet/InitTalkServlet.java=UTF-8
+encoding//src/com/qdlg/util/CommonUtil.java=UTF-8
+encoding//src/com/qdlg/util/Iconst.java=UTF-8
+encoding/<project>=UTF-8
